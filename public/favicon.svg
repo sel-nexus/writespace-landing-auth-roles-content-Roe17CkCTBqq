@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">WriteSpace</title>
+  <desc id="description">An open book with a writing pen</desc>
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <path d="M12 17c7-2 14 0 20 5v29c-6-5-13-7-20-5V17Z" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M52 17c-7-2-14 0-20 5v29c6-5 13-7 20-5V17Z" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m45 10 7 7-17 17-9 2 2-9 17-17Z" fill="#38bdf8" stroke="#0f172a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m42 13 7 7M28 27l7 7" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/>
+</svg>
